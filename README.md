@@ -1,24 +1,26 @@
-# Hi, I'm Ilay 👋  
+<div align="center">
 
-🎓 **Applied AI Student** | 💻 **Python & Java Learner** | 🎮 **Gamer & Future Game Dev**  
+# Hey, I'm Ilay 👋  
+Applied AI student • Python · Java · SQL
 
----
+<a href="https://www.linkedin.com/in/ilay-rakotondravao-322412161/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin">
+</a>
 
-## 🚀 Projects  
-- **[Linear Regression from Scratch](#)** – Built from the ground up to understand the math.  
-- **Logistic Regression (WIP)** – Currently developing from scratch.  
+</div>
 
----
+## 🚀 Projects
+- **Linear Regression from Scratch** — first-principles build: math → code → results.  
+  https://github.com/iPelo/Linear-Regression-from-Scratch
+- **Logistic Regression** — from scratch for binary classification (WIP).  
+  https://github.com/iPelo/Logistic_Regression
 
-## 📚 Learning  
-- Python, Java & SQL (via [LearnSQL.com](https://learnsql.com))  
-- Exploring Machine Learning & AI basics  
+<div align="center">
 
----
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=iPelo&show_icons=true&hide_title=true&rank_icon=github" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=iPelo" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iPelo&layout=compact&langs_count=8" />
+</p>
 
-## 📫 Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ilay-rakotondravao-322412161/)  
-
----
-
-⚡ *Passionate about AI & gaming. My dream: build pocket-sized games powered by AI.*  
+</div>

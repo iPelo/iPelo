@@ -16,13 +16,13 @@ Applied AI student • Python · Java · SQL
 
 ## 🚀 Projects 
 <p align="center">
+  <a href="https://github.com/iPelo/Tank-Reinforcement-Learning">
+    <img height="140" alt="Tank Reinforcement Learning" 
+         src="https://github-readme-stats.vercel.app/api/pin/?username=iPelo&repo=Tank-Reinforcement-Learning&theme=transparent&hide_border=true" />
+  </a>
   <a href="https://github.com/iPelo/Linear-Regression-from-Scratch">
     <img height="140" alt="Linear Regression from Scratch" 
-         src="https://github-readme-stats.vercel.app/api/pin/?username=iPelo&repo=Linear-Regression-from-Scratch" />
-  </a>
-  <a href="https://github.com/iPelo/Logistic_Regression">
-    <img height="140" alt="Logistic Regression" 
-         src="https://github-readme-stats.vercel.app/api/pin/?username=iPelo&repo=Logistic_Regression" />
+         src="https://github-readme-stats.vercel.app/api/pin/?username=iPelo&repo=Linear-Regression-from-Scratch&theme=transparent&hide_border=true" />
   </a>
 </p>
 
@@ -32,11 +32,11 @@ Applied AI student • Python · Java · SQL
 <div align="center">
 
 <img height="160" 
-     src="https://github-readme-stats.vercel.app/api?username=iPelo&show_icons=true&hide_title=true&rank_icon=github" />
+     src="https://github-readme-stats.vercel.app/api?username=iPelo&show_icons=true&hide_title=true&rank_icon=github&theme=transparent&hide_border=true" />
 <img height="160" 
-     src="https://github-readme-streak-stats.herokuapp.com/?user=iPelo" />
+     src="https://streak-stats.demolab.com?user=iPelo&theme=transparent&hide_border=true" />
 <img height="160" 
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=iPelo&layout=compact&langs_count=8" />
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=iPelo&layout=compact&langs_count=8&theme=transparent&hide_border=true" />
 
 </div>
 

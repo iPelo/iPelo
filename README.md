@@ -15,16 +15,28 @@ Applied AI student • Python · Java · SQL
 ---
 
 ## 🚀 Projects 
-<p align="center">
-  <a href="https://github.com/iPelo/Tank-Reinforcement-Learning">
-    <img height="140" alt="Tank Reinforcement Learning" 
-         src="https://github-readme-stats.vercel.app/api/pin/?username=iPelo&repo=Tank-Reinforcement-Learning&theme=transparent&hide_border=true" />
-  </a>
-  <a href="https://github.com/iPelo/Linear-Regression-from-Scratch">
-    <img height="140" alt="Linear Regression from Scratch" 
-         src="https://github-readme-stats.vercel.app/api/pin/?username=iPelo&repo=Linear-Regression-from-Scratch&theme=transparent&hide_border=true" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/iPelo/Tank-Reinforcement-Learning">Tank-Reinforcement-Learning</a></h3>
+      <p>Train a hidden-information PPO tank AI through self-play, opponent pools, and evaluation-driven progression.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyTorch-PPO-EE4C2C?logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/RL-Self%20Play-15803D" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/iPelo/Linear-Regression-from-Scratch">Linear-Regression-from-Scratch</a></h3>
+      <p>Educational machine learning project implementing linear regression, gradient descent, and evaluation plots from scratch.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
+        <img src="https://img.shields.io/badge/ML-From%20Scratch-0F766E" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -32,11 +44,13 @@ Applied AI student • Python · Java · SQL
 <div align="center">
 
 <img height="160" 
-     src="https://github-readme-stats.vercel.app/api?username=iPelo&show_icons=true&hide_title=true&rank_icon=github&theme=transparent&hide_border=true" />
-<img height="160" 
      src="https://streak-stats.demolab.com?user=iPelo&theme=transparent&hide_border=true" />
-<img height="160" 
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=iPelo&layout=compact&langs_count=8&theme=transparent&hide_border=true" />
+
+<br/>
+
+<img src="https://img.shields.io/github/followers/iPelo?label=Followers&style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/iPelo/Tank-Reinforcement-Learning?label=Tank%20RL%20Stars&style=for-the-badge" />
+<img src="https://img.shields.io/github/last-commit/iPelo/Tank-Reinforcement-Learning?label=Latest%20Tank%20RL%20Commit&style=for-the-badge" />
 
 </div>
 

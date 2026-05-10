@@ -31,7 +31,7 @@ class Ilay:
     motto    = "MATHS 🤯"
 ```
 
-I write ML by hand — gradient by gradient, equation by equation — because the maths is half the fun.  
+I write ML  — gradient by gradient, equation by equation — because the maths is half the fun.  
 Currently teaching tanks how to outsmart each other through self-play. 🛡️
 
 ---

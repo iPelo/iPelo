@@ -114,7 +114,8 @@ Older projects where I wrote the models myself with NumPy:
 
 <div align="center">
 
-### _"From first principles, or not at all." 🤯_
+### _"Yep, I'm stupid. But I still do my best."_ 🦫
+<sub>— Bidoof, Pokémon Mystery Dungeon</sub>
 
 [![Follow on GitHub](https://img.shields.io/github/followers/iPelo?style=social)](https://github.com/iPelo)
 
